@@ -17,3 +17,6 @@ tmp/
 # Mac OSX Finder files.
 **/.DS_Store
 .DS_Store
+/nbproject/private/
+/tests/e2e/assets/webpack/test-app/nbproject/private/
+/tests/e2e/assets/webpack/test-app-weird/nbproject/private/
